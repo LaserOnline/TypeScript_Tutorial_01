@@ -1,1 +1,1 @@
-# TypeScript_Tutorial_01
+# TypeScript Tutorial
